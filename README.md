@@ -14,9 +14,13 @@ Es stehen folgende Zugänge bereit:
 
 Die HTML-Apps öffnen sich direkt im Browser, auf dem iPad z. B. in Safari. Zum ersten Laden ist eine Internetverbindung erforderlich.
 
-## Bodenfarbe
+## Bodenfarbe - org. Kohlenstoffgehalt
 
 Soil Color Laboratory v1.1.0 bietet manuelle CIELAB-Eingabe, Statistik, Munsell-Zuordnung, literaturbasierte SOM-/SOC-Schätzbereiche, Kontrollmessungen an 17 Farbkartenfeldern und Export. Messbedingungen: C / 2° / M2. Messung mit Nix Toolkit, anschließend Werteübertragung in die Web-App. Keine direkte Sensorverbindung in Safari. Die SOM-/SOC-Schätzungen sind keine chemische Referenzbestimmung.
+
+## Korallenfarbe - Bleachinggrad, Chlorophyllgehalt und Symbiontendichte
+
+Coral Color Lab v1.0 bietet automatische und manuelle Auswertung von hochgeladenen Fotos zur Korallengesundheit basierend auf den 4 x 6 HEX-Farbcodes der "coral color watch" Farbkarte. Anschließend Werteexport in eine Datei. Die Chlorophyll- und Symbiontendichte-Schätzungen nach Frerrara für drei Spezies sind keine chemische Referenzbestimmung.
 
 ## QR-Codes
 
