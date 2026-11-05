@@ -1,4 +1,4 @@
-Willkommen bei Jule - Station 2 - Chlorophyllbestimmung
+## Willkommen bei Jule - Station 2 - Chlorophyllbestimmung
 Auf der Hauptseite kannst Du die QR-codes aller apps im pdf anzeigen lassen, um sie zu installieren.
 Meldet man sich mit seinem google account oder appleID bei photofolia oder colourworker an, kann man Chlorophyll in Blättern per Photografie bestimmen.
 Die beiden Apps colourworker und photofolia für das iPad sammeln unterschiedliche Informationen.
