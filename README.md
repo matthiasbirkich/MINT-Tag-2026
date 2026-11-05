@@ -20,7 +20,7 @@ Soil Color Laboratory v1.1.0 bietet manuelle CIELAB-Eingabe, Statistik, Munsell-
 
 ## Korallenfarbe - Bleachinggrad, Chlorophyllgehalt und Symbiontendichte
 
-Coral Color Lab v1.0 bietet automatische und manuelle Auswertung von hochgeladenen Fotos zur Korallengesundheit basierend auf den 4 x 6 HEX-Farbcodes der "coral color watch" Farbkarte. Anschließend Werteexport in eine Datei. Die Chlorophyll- und Symbiontendichte-Schätzungen nach Frerrara für drei Spezies sind keine chemische Referenzbestimmung.
+Coral Color Lab v1.0 bietet automatische und manuelle Auswertung von hochgeladenen (bereinigten) Fotos zur Korallengesundheit basierend auf den 4 x 6 HEX-Farbcodes der "coral health chart" von coralwatch.org Farbkarte für Citizen Science. Anschließend ist der Werteexport in eine Datei möglich. Die Chlorophyll- und Symbiontendichte-Schätzungen nach Frerrara für drei Spezies sind keine chemische Referenzbestimmung.
 
 ## QR-Codes
 
