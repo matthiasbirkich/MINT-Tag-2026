@@ -8,7 +8,7 @@ Es stehen folgende Zugänge bereit:
 
 | Anwendung | Link |
 |---|---|
-| Gemeinsame Startseite | [MINT-Tag 2026](https://matthiasbirkich.github.io/MINT-Tag-2026/) |
+| Gemeinsame Startseite | [MINT-Tag 2026](https://github.com/matthiasbirkich/MINT-Tag-2026) |
 | Station 1: Korallenfarbe (bestehendes Repositorium) | [Coral Color Lab](https://matthiasbirkich.github.io/coral-color-lab/) |
 | Station 4: Bodenfarbe | [Soil Color Laboratory](https://matthiasbirkich.github.io/MINT-Tag-2026/apps/bodenfarbe/) |
 
