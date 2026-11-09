@@ -1,6 +1,6 @@
 # Station 6 – Mikroskopie und Plasmaströmung
 
-**MINT-Tag 2026 · ZMT und Gymnasium am Markt · Dr. Anne-Christin Kreutzmann
+**MINT-Tag 2026 · ZMT und Gymnasium am Markt · Dr. Anne-Christin Kreutzmann**
 
 Unsere Forschungsfragen
 
