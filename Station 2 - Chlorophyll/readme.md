@@ -8,7 +8,7 @@
 Hier seid Ihr die Ersten, die in einer ZMT-Kooperation mit dem AppEntwickler John Andersen und dem Programmierer Miguel Garvie wertvolle Beiträge liefert!  
 So wird die App immer mehr erweitert: Korallenbleiche, Hautfarbe, etc..
 Hier erfährst Du das Messprinzip (nur auf englisch). [Hintergrund](https://www.colourworker.com/background.php)  
-Bei allen Fragen, die euch euer Guide nicht beantwortet hilft euch das mobile Einsatzteam aus Georgsmarienhütte mit Matthias Birkicht. 
+Bei allen Fragen, die euch euer Guide nicht beantwortet hilft euch das mobile Einsatzteam aus Georgsmarienhütte mit Matthias Birkicht.  
 Achtet später auf den Vortrag von der Station 3 (Achim Meyer), da seht ihr ein Meßinstrument, was Chlorophyll aus Extrakten bestimmen kann.  
 Achtet später auf den Vortrag der Station 1 (Nico Steinel), da seht ihr ein Meßinstrument (Y2), was die Reflektion über den gesamten Spektralbereich bestimmen kann.  
 
