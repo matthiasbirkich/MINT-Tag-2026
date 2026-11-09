@@ -5,7 +5,9 @@
 ## Unsere Forschungsfrage
 
 **Wie können wir aus tropischer Wasserpest DNA gewinnen und die Konzentration der doppelsträngigen DNA &#40;dsDNA&#41; im Extrakt bestimmen?**
-
+  
+Bei allen Fragen, die euch euer Guide nicht beantwortet hilft euch das mobile Einsatzteam aus Georgsmarienhütte mit Matthias Birkicht. 
+  
 ## Eure Versuche
 
 1. **DNA gewinnen und sichtbar machen &#40;Versuch A&#41;\.** Zerkleinert die Wasserpest und schließt die Zellen mit einer Salz\-Spülmittel\-Lösung auf\. Filtriert den Extrakt und füllt **vor der Alkoholzugabe** etwas wässriges Filtrat für Versuch B ab\. Überschichtet den übrigen Ansatz mit kaltem Alkohol und beobachtet die DNA\-haltigen Schlieren an der Grenzfläche\.
