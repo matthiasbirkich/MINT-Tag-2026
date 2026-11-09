@@ -5,7 +5,9 @@
 ## Unsere Forschungsfrage
 
 **Wie unterscheiden sich Bodenproben in ihrer Farbe? Unter welchen Bedingungen kann die Bodenfarbe Hinweise auf den Gehalt an organischem Kohlenstoff geben?**
-
+  
+Bei allen Fragen, die euch euer Guide nicht beantwortet hilft euch das mobile Einsatzteam aus Georgsmarienhütte mit Matthias Birkicht. 
+  
 ## Euer Versuch
 
 1. **Sensor und Farbkarte prüfen\.** Verbindet den Nix Mini 3 mit Nix Toolkit und stellt **C / 2° / M2** ein\. Messt ein Feld der bereitgestellten Farbkarte mehrfach\. Vergleicht die CIELAB\-Werte unter **Referenzprüfung** mit den hinterlegten Vergleichswerten\. Die Farbdifferenz ΔE₀₀ zeigt, wie ähnlich sich zwei Farben sind\.
