@@ -1,6 +1,6 @@
-Station 6 – Mikroskopie und Plasmaströmung
+# Station 6 – Mikroskopie und Plasmaströmung
 
-MINT-Tag 2026 · ZMT und Gymnasium am Markt · Dr. Anne-Christin Kreutzmann
+**MINT-Tag 2026 · ZMT und Gymnasium am Markt · Dr. Anne-Christin Kreutzmann
 
 Unsere Forschungsfragen
 
@@ -16,7 +16,7 @@ Apps und Online-Werkzeuge
 
 Eure Versuche
 
-A – Zellgröße bestimmen
+# A – Zellgröße bestimmen
 
 1. Kamera anschließen. Verbindet die USB-Kamera des Bresser Biolux NV mit dem USB-C-iPad. Öffnet CamX, prüft das Livebild und stellt das Präparat scharf.
 2. Bildmaßstab bestimmen. Fotografiert das Objektmikrometer mit dem 10×-Objektiv und öffnet das Bild in ImageJ.JS. Zieht eine Linie über fünf Abstände zwischen benachbarten Teilstrichen. Jeder Abstand entspricht 10 µm. Tragt unter Analyze → Set Scale 50 µm als bekannte Strecke und µm als Einheit ein. Verwendet für Präparat und Kalibrierbild dasselbe Objektiv, dieselbe Aufnahmeauflösung und denselben Zoom.
@@ -24,16 +24,16 @@ A – Zellgröße bestimmen
 
 Verwendet für die Messung die Originalaufnahmen in voller Pixelauflösung. Falls CamX das Foto als HEIC speichert, könnt ihr es in der Dateien-App ohne Größenänderung in JPEG umwandeln. Ergänzt für eure Präsentation einen Maßstabsbalken auf einer Bildkopie.
 
-B – Plasmaströmung messen
+# B – Plasmaströmung messen
 
 1. Chloroplasten verfolgen. Filmt ein lebendes Wasserpestblatt. Markiert die Position desselben Chloroplasten in mehreren Videobildern mit bekannten Zeitpunkten.
 2. Geschwindigkeit berechnen. Messt seinen Weg im kalibrierten Bild und teilt ihn durch die verstrichene Zeit. Wiederholt das für drei Chloroplasten und gebt die Geschwindigkeiten in µm/s an.
 
-Was euch die Messungen zeigen
+# Was euch die Messungen zeigen
 
 In der Wasserpest macht die Bewegung der Chloroplasten die Strömung des Cytoplasmas sichtbar. In der Aquakultur lässt sich mit dem Mikroskop beobachten, ob Seetangsporen keimen und sich junge Algen entwickeln. Bei Mikroalgen helfen wiederholte Zählungen in einer Zählkammer, das Wachstum einer Kultur anhand ihrer Zelldichte in Zellen/mL zu verfolgen. Ein Forschungsbeispiel aus den Stationsfolien ist food4future.
 
-Materialien
+# Materialien
 
 |Material                                                                                                                |Inhalt                                                                   |
 |------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
