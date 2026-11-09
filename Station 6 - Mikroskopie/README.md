@@ -43,8 +43,6 @@ In der Wasserpest macht die Bewegung der Chloroplasten die Strömung des Cytopla
 |[ImageJ-Handbuch (PDF)](ImageJ%20guide.pdf)                                                                             |Nachschlagewerk für ImageJ/Fiji                                          |
 |[Kalibriermakro](MINT_Station6_SetScale_10x.ijm) · [Makro für den 20-µm-Maßstabsbalken](MINT_Station6_ScaleBar_20um.ijm)|Für den vermessenen Stationsaufbau mit 10×-Objektiv und 1280 × 720 Pixeln|
 
-Bei Fragen zum Messaufbau helfen euch Matthias Birkicht und das Team aus Georgsmarienhütte.
-
 Eure Kurzpräsentation
 
 1. Stellt eure Forschungsfragen und die verwendeten Präparate vor.
