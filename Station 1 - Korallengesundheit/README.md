@@ -1,4 +1,4 @@
-# Station 1 – Korallengesundheit und Lichtmessung
+## Station 1 – Korallengesundheit und Lichtmessung
 
 **MINT\-Tag 2026 am Leibniz\-Zentrum für Marine Tropenforschung &#40;ZMT&#41; · Nico Steinel**
 
