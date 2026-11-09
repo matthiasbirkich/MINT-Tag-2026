@@ -5,7 +5,7 @@
 Unsere Forschungsfragen
 
 Wie groß sind Pflanzenzellen? Wie schnell bewegen sich Chloroplasten mit der Plasmaströmung in lebenden Wasserpestzellen?  
-An Stationen 2 und 3 wird indirekt am Blattfarbstoff Chlorophyll geforscht. Achtet später auf die Vorträge der Forschenden.  
+An Stationen 1, 2 und 3 wird indirekt am Blattfarbstoff Chlorophyll geforscht. Achtet später auf die Vorträge der Forschenden.  
 
 Apps und Online-Werkzeuge
 
