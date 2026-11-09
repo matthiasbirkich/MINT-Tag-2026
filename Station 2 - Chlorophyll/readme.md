@@ -5,7 +5,9 @@
 ## Unsere Forschungsfrage
 
 **Wie lässt sich der Chlorophyllgehalt von Blättern mit dem iPad abschätzen? Wie unterscheiden sich hell\- und dunkelgrüne Blätter von *****Ficus benjamina***** in ihrem Reflexionsspektrum, ihrem SPAD\-Wert und ihrem geschätzten Chlorophyllgehalt?**
-
+  
+Bei allen Fragen, die euch euer Guide nicht beantwortet hilft euch das mobile Einsatzteam aus Georgsmarienhütte mit Matthias Birkicht. 
+  
 ## Euer Versuch
 
 1. **Apps und Blätter vorbereiten\.** Installiert PhotoFolia und ColourWorker über die [QR\-Codes für den App Store](../MINT_2026_App_QRs.pdf)\. Wählt unterschiedlich grüne Ficusblätter aus, vergebt für jedes Blatt eine Proben\-ID und notiert seinen Zustand\.
