@@ -5,8 +5,10 @@
 ## Unsere Forschungsfragen
 
 - **Korallenfarbe\.** Welche Hinweise auf Korallenbleiche geben die Farben zweier Fragmente von *Stylophora pistillata*? Wie verändert die Bildbearbeitung das Ergebnis?
-- **Lichtmessung\.** Wie gut stimmen die mit dem Y2 gemessenen Peaks einer Leuchtstofflampe mit bekannten Referenzwellenlängen überein? Wie unterscheidet sich das Lampenspektrum vom Tageslicht?
-
+- **Lichtmessung\.** Wie gut stimmen die mit dem Y2 gemessenen Peaks einer Leuchtstofflampe mit bekannten Referenzwellenlängen überein? Wie unterscheidet sich das Lampenspektrum vom Tageslicht?  
+  
+Bei Fragen zum Messaufbau hilft euch das mobile Einsatzteam  aus Georgsmarienhütte mit Matthias Birkicht. 
+  
 ## Eure Versuche
 
 ### A – Korallenfarbe auswerten
