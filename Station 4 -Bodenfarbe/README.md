@@ -3,7 +3,7 @@
 **MINT\-Tag 2026 am Leibniz\-Zentrum für Marine Tropenforschung &#40;ZMT&#41; · Constanze von Waldthausen**
 
 Das Messprinzip: [Farbsystem MUNSELL](https://github.com/matthiasbirkich/MINT-Tag-2026/blob/main/Station%204%20-Bodenfarbe/MINT_Tag_2026_Station_4_Munsell.pdf)  
-Wenn Du das pdf auch auf deinem engerät speicherst, lassen sich die Links im Dokument anklicken. In der github-Vorschau leider nicht.
+Wenn Du das pdf auf deinem Endgerät speicherst und dort öffnest, lassen sich auch die Links im Dokument anklicken. In der github-Vorschau geht das leider nicht.
 
 ## Unsere Forschungsfrage
 
