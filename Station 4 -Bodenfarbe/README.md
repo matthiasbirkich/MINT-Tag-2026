@@ -2,6 +2,8 @@
 
 **MINT\-Tag 2026 am Leibniz\-Zentrum für Marine Tropenforschung &#40;ZMT&#41; · Constanze von Waldthausen**
 
+Das Messprinzip: [Farbsystem MUNSELL](https://github.com/matthiasbirkich/MINT-Tag-2026/blob/main/Station%204%20-Bodenfarbe/MINT_Tag_2026_Station_4_Munsell.pdf)
+
 ## Unsere Forschungsfrage
 
 **Wie unterscheiden sich Bodenproben in ihrer Farbe? Unter welchen Bedingungen kann die Bodenfarbe Hinweise auf den Gehalt an organischem Kohlenstoff geben?**
