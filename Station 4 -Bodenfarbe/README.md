@@ -13,7 +13,7 @@ Bei allen Fragen, die euch euer Guide nicht beantwortet hilft euch das mobile Ei
 1. **Sensor und Farbkarte prüfen\.** Verbindet den Nix Mini 3 mit Nix Toolkit und stellt **C / 2° / M2** ein\. Messt ein Feld der bereitgestellten Farbkarte mehrfach\. Vergleicht die CIELAB\-Werte unter **Referenzprüfung** mit den hinterlegten Vergleichswerten\. Die Farbdifferenz ΔE₀₀ zeigt, wie ähnlich sich zwei Farben sind\.
 2. **Bodenproben vorbereiten und messen\.** Vergebt für jede trockene, gemahlene Probe eine Proben\-ID\. Mischt sie gut und streicht die Oberfläche glatt\. Messt pro Probe fünfmal bei gleicher Sensorausrichtung und gleichem Abstand zur Oberfläche\. Notiert bei jeder Messung **L\*, a\* und b\***\.
 3. **Messwerte übertragen\.** Gebt die fünf CIELAB\-Tripel pro Probe von Hand in [Soil Color Laboratory](https://matthiasbirkich.github.io/MINT-Tag-2026/apps/bodenfarbe/) ein\. Vergleicht Mittelwerte und Standardabweichungen\. Speichert die Proben für den Vergleich und exportiert eure Messreihe als CSV\.
-4. **Bodenfarbe vergleichen\.** Notiert die zugeordnete Munsell\-Farbe und vergleicht insbesondere den **Value**, also die Helligkeit\. Prüft, welchen SOM\- und SOC\-Bereich die App für die gewählte Bodenart angibt, sofern eine Schätzung für eure Probe verfügbar ist\.
+4. **Bodenfarbe vergleichen\.** Notiert die zugeordnete Munsell\-Farbe [Munsell-Farben](https://www.andrewwerth.com/color/#hue2_5Y) und vergleicht insbesondere den **Value**, also die Helligkeit\. Prüft, welchen SOM\- und SOC\-Bereich die App für die gewählte Bodenart angibt, sofern eine Schätzung für eure Probe verfügbar ist\.
 
 ## Was euch die Bodenfarbe zeigt
 
